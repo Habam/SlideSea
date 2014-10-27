@@ -1,4 +1,4 @@
 SlideSea
 ========
 
-slide share and discover
+slide sharing and discovering
